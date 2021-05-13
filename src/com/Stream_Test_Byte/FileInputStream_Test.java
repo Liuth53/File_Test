@@ -1,6 +1,6 @@
 /**
 
-* @Description:    InputStream_Test
+* @Description:    InputStream_Test 字节
 
 * @Author:         Lth
 
@@ -15,7 +15,7 @@
 * @Version:        1.8
 
 */
-package com.Stream_Test;
+package com.Stream_Test_Byte;
 
 import org.junit.Test;
 
